@@ -6,3 +6,6 @@ This repository contains data science projects as follows:
 * Mobile Price classification: An EDA-only classification project without a model built because graphical bivariate analysis showed lack of correlation between the independent variables and the target variable
 * Diabetes Classifier: A binary classification project that predicts the occurence of diabetes based on lifestyle measures of individuals. It was the most challenging project so far because all the variables were encoded. As a result, I separated the data into binary (True/False, Male/Female) and nominal variables.
 I know I could decode them using the data card, but I have kept them this way as a way of challenging myself. In addition, it's more time-saving this way
+
+
+#**I've crossed a long way to get this far in data science. I'm ready to keep crossing longer ones because it's a wonderful field with a huge potential**
